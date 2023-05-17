@@ -14,7 +14,7 @@ int main(){
 
 
     do{ system("cls");
-        printf("ESCRIBIR AQUI EL TITULO DEL PROGRAMA\n");
+        printf("Trabajo individual 5\n");
         printf("====================================\n\n");
 
 
